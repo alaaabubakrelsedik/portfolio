@@ -135,7 +135,6 @@ width:auto;
 }
 
 .project-link {
-    color: #0077b6;
     text-decoration: none;
     font-weight: bold;
 }
@@ -167,7 +166,6 @@ width:auto;
 }
 
 .contact-form button {
-    background: #0077b6;
     color: #fff;
     border: none;
     padding: 0.75rem 1.5rem;

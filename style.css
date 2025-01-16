@@ -181,3 +181,26 @@ width:auto;
 .contact-form button:hover {
     background: #005f8a;
 }
+
+.sendmail{
+
+
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        padding: 1rem;
+    display: block;
+    width:auto;
+    }
+    .sendmail label, .sendmail input {
+
+
+      
+    width:300px;
+    }
+
+
+
+
+
+
